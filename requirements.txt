@@ -1,0 +1,9 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+sqlalchemy==1.4.46
+psycopg2-binary==2.9.6
+bcrypt==3.2.2
+passlib==1.7.4
+python-dotenv==1.0.0
+pydantic==1.10.7
+#pydantic[email] -- might need to install this package too
